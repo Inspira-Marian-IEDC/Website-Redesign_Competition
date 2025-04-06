@@ -87,6 +87,12 @@ This repository provides an **automated workflow** to manage **Website Redesign 
 We welcome contributions! Please ensure your contributions adhere to standard contributing guidelines.
 Thank you for your contributions!
 
+Repo link :- https://github.com/NotNalin/Hackathon-Submission.git
+## 👨‍💻 Credits
+
+- [NotNalin](https://github.com/NotNalin)
+- [elementaryrock](https://github.com/elementaryrock)
+
 ---
 
 ## 📄 License
